@@ -17,7 +17,7 @@ const Home = () => {
       {/* <Navbar/> */}
 
       {/* Find your own pet */}
-      <div className="flex flex-row pl-28 w-full gap-20 justify-center xl:max-w-[1440px]">
+      <div className="flex flex-row pl-28 w-full gap-20 justify-center xl:max-w-[1920px]">
         <div className="flex flex-col gap-6">
           <h1 className="font-bold text-[#7FA0C5] text-[3.5rem] pt-[14.5rem]">
             Find your Own Pet
